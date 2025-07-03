@@ -1,0 +1,19 @@
+git config --global user.name/user.email "name/email"
+
+ls -a -> for hidden file.
+code write kerne ke bad yellow folder ho raha hai iska mtlb file save ho gai hai or side me M likha aayega
+
+add - adds new or changed files in your working directory to the git staging area. 
+<!-- (git add <- file name) -->
+
+commit- it is the record of change
+<!-- git commit -m "some msg" -->
+
+push- upload local repo content to remote repo
+<!-- git push origin main -->
+
+kuch add kerne ke liye git add (any text)
+add hua ya nai hua voo check kerne ke liye git status se check kerte hai 
+
+ak sath me sab add kerna ho to uske liye git add. se ker skte hai 
+isko check kerne ke liye git status se check ker skte hai
