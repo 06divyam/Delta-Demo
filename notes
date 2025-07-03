@@ -15,5 +15,5 @@ push- upload local repo content to remote repo
 kuch add kerne ke liye git add (any text)
 add hua ya nai hua voo check kerne ke liye git status se check kerte hai 
 
-ak sath me sab add kerna ho to uske liye git add. se ker skte hai 
+ak sath me sab add kerna ho to uske liye git add . se ker skte hai 
 isko check kerne ke liye git status se check ker skte hai
